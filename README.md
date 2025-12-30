@@ -1,5 +1,3 @@
-# anrwt12-
-Portfolio of Anjali Rawat – Data Analysis &amp; Machine Learning Projects
 # Hi, I'm Anjali Rawat 👋  
 ### Aspiring Data Analyst | BSc Computer Science
 
