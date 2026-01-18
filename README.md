@@ -30,7 +30,7 @@ I turn raw data into **meaningful insights using Python, SQL, Machine Learning, 
 
 🌟 **Featured Project – AI-Powered Data Analyst**  
 
-![AI Project](https://user-images.githubusercontent.com/placeholder/ai_project.gif)  *(Replace with your own GIF or screenshot)*
+![AI Project](https://user-images.githubusercontent.com/placeholder/ai_project.gif)  
 
 **Project Highlights:**  
 - Upload any dataset  
@@ -38,7 +38,8 @@ I turn raw data into **meaningful insights using Python, SQL, Machine Learning, 
 - Generates human-readable insights  
 - Business-ready recommendations  
 
-[View Project Repo](#) *(Add your GitHub repo link here)*
+ [View Project Repo](https://github.com/anrwt12/Monthly-Temperature-Analysis)
+
 
 ---
 
